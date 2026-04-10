@@ -1,4 +1,4 @@
-# Board Game Engine with Command Interpreter
+# 𝘽𝙤𝙖𝙧𝙙 𝙂𝙖𝙢𝙚 𝙀𝙣𝙜𝙞𝙣𝙚 𝙬𝙞𝙩𝙝 𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙄𝙣𝙩𝙚𝙧𝙥𝙧𝙚𝙩𝙚𝙧
 
 > Academic project developed for **Laboratórios de Informática II** @ University of Minho  
 > Final grade: **19/20** ⭐
