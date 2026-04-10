@@ -64,7 +64,7 @@ C · Dynamic Memory Allocation · Stack (undo/redo) · BFS · Backtracking · CU
 ## Authors
 
 Carolina Dias - [@carolinavdias](https://github.com/carolinavdias)  
-João Ribeiro 
-Tiago Santos
+João Ribeiro - [@J-ribeiro-cmd](https://github.com/J-Ribeiro-cmd),
+Tiago Santos - [@TiagoSantos1000](https://github.com/TiagoSantos1000)
 
 BSc Software Engineering · University of Minho
